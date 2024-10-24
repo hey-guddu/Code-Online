@@ -15,5 +15,6 @@ int main()
     second_number = temp_value;
     printf("After swap, \nFirst number is: %d,\t Second number is: %d", first_number, second_number);
     printf("Program ends here..!!");
+    getch();
     return 0;
 }
